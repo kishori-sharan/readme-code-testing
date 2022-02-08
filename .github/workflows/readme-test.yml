@@ -1,9 +1,6 @@
 name: Test code and embed into README
 
-on:
-  pull_request:
-    branches:
-      - main
+on: push
 jobs:
   readme-test:
     runs-on: ubuntu-latest
