@@ -10,6 +10,11 @@ You could put code in external file and test them, as same as ordinary testing y
 
 ## Mark your code for embedding
 
+Embedding Java ocde from a file:
+```java:src/Main.java
+
+```
+
 This action could inspect your code, if you add a file path in code block as "\`\`\`lang:external/file/path.py\`\`\`".
 
 The following code block has a file path `src/helloworld.py`:
