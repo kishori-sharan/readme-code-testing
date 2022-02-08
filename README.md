@@ -10,7 +10,7 @@ You could put code in external file and test them, as same as ordinary testing y
 
 ## Mark your code for embedding
 
-Embedding Java code from a file:
+Let us test embedding Java code from a file:
 ```java:src/Main.java
 
 ```
