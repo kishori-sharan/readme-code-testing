@@ -11,7 +11,7 @@ You could put code in external file and test them, as same as ordinary testing y
 ## Mark your code for embedding
 
 Let us test embedding Java code from a file:
-```java:src/Main.java
+```python:src/Main.java
 
 ```
 
