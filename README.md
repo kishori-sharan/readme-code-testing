@@ -10,7 +10,7 @@ You could put code in external file and test them, as same as ordinary testing y
 
 ## Mark your code for embedding
 
-Embedding Java ocde from a file:
+Embedding Java code from a file:
 ```java:src/Main.java
 
 ```
